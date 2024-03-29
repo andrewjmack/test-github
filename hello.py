@@ -1,3 +1,6 @@
 from helpers import greet
 
-greet("Hello Mark")
+def greet(name)
+    print(f"Hello {name}")
+
+greet(Andy)
